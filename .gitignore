@@ -1,0 +1,15 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temp / backup files
+*.log
+*.tmp
+*.bak
+~$*.xlsx
+
+# Raw datasets / dumps (large, not redistributed)
+data/*.sql
+data/*.csv
