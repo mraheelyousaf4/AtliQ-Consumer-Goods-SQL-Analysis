@@ -184,7 +184,7 @@ AtliQ-Consumer-Goods-SQL-Analysis/
 
 ## 👤 About the Author
 
-**YOUR NAME** · Aspiring Data Analyst · SQL · Excel · Power BI
+**Muhammad Raheel Yousaf** · Aspiring Data Analyst · SQL · Excel · Power BI
 
 <a href="https://github.com/mraheelyousaf4"><img src="https://img.shields.io/badge/GitHub-mraheelyousaf4-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="32"></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="32"></a>
