@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="images/00_banner.png" alt="AtliQ Hardware: Consumer Goods Sales Analytics" width="100%">
+  <img src="images/00_banner.png"
+       alt="AtliQ Hardware: Consumer Goods Sales Analytics"
+       width="100%">
 </p>
 
 <p align="center">
